@@ -1,3 +1,5 @@
+*.csv
+figures/
 .Rproj.user
 .Rhistory
 .Rdata

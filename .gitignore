@@ -1,4 +1,5 @@
-*.csv
+*.csv           # ignore all data files
+!final.csv      # except final.csv
 figures/
 .Rproj.user
 .Rhistory

@@ -1,4 +1,4 @@
 Comparison of attack rates in different age groups
 This can identify priority groups for interventions
-Maybe I should start with a data cleaning step.
-Read shapefiles with the {sf} R package
+Maps illustrate the spread and impact of outbreak
+Use packages listed in the CRAN Task View: Epidemiology
